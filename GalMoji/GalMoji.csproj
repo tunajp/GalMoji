@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+
+    <PackageId>GalMoji</PackageId>
+    <Description>GalMoji Encode Library</Description>
+    <Version>0.0.1</Version>
+    <Authors>tunajp</Authors>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <RepositoryUrl>https://github.com/tunajp/GalMoji.git</RepositoryUrl>
+  </PropertyGroup>
+
+</Project>
